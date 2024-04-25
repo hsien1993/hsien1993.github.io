@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hsien-chin Lin"
+title                    : "Hsien-Chin Lin"
 title_separator          : "-"
-name                     : &name "Hsien-chin Lin"
-description              : &description "PhD student at Heinrich-Heine-Universität Düsseldorf"
+name                     : &name "Hsien-Chin Lin"
+description              : &description "Postdoctoral Researche at Heinrich-Heine-Universität Düsseldorf"
 url                      : https://hsien1993.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsien1993.github.io"
